@@ -1,4 +1,7 @@
-# customer-creation-form
+# Форма добавления нового пациента (vue.js, vuelidate, bootstrap)
+
+__[Demo](https://agatta17.github.io/customer-creation-form/)__
+
 
 ## Project setup
 ```
